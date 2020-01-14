@@ -1,0 +1,8 @@
+{
+    "name": "css_animation",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "cheroliv",
+    "contributors": [],
+    "dependencies": {}
+}
